@@ -1,3 +1,5 @@
+# ["mi amas vin", "bonan matenon", "pacon", "ĉu vi parolas esperanton"]
 def alphabetize(arr)
-  # code here
+  esperanto_alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+  
 end
