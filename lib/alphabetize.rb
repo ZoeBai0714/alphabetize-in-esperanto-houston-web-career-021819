@@ -2,6 +2,6 @@
 def alphabetize(arr)
   esperanto_alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   arr.collect do |element|
-    
+    element.split("")
   end
 end
